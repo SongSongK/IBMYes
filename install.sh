@@ -21,7 +21,7 @@ create_mainfest_file(){
       memory: ${IBM_MEM_SIZE}M
 EOF
 
-     echo "配置完成。"
+     echo "配置完成!。"
 }
 
 clone_repo(){
